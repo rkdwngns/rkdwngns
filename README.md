@@ -1,6 +1,6 @@
 ### Hi there 👋, rkdwngns
 프로그래밍을 공부하고 있습니다. java,C를 주로 하고 있고 보안쪽에 관심이 있습니다.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![rkdwngns's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](github.com/rkdwngns/github-readme-stats)
 
 Skills: C/JAVA/HTML/Android/java FX
 
