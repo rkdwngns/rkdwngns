@@ -1,6 +1,5 @@
 ### Hi there 👋, rkdwngns
 ## 스승 기무태한
-![banner-6617550_960_720](https://user-images.githubusercontent.com/93520535/159413280-62765623-ae43-4f8c-80be-41b588f7efa3.png)
 프로그래밍을 공부하고 있습니다. java,C를 주로 하고 있고 보안쪽에 관심이 있습니다.
 
 ![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&show_icons=true&theme=radical)
