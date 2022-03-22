@@ -1,5 +1,4 @@
-### Hi there 👋, rkdwngns
-## 스승 기무태한
+#### Hi there 👋, rkdwngns
 프로그래밍을 공부하고 있습니다. java,C를 주로 하고 있고 보안쪽에 관심이 있습니다.
 
 ![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&show_icons=true&theme=radical)
