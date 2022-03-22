@@ -9,7 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-007396.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
 ![Android](https://img.shields.io/badge/Android-008000.svg?&style=for-the-badge&logo=Android&logocolor=white)
-## c,Reverse
+<img src="https://img.shields.io/badge/{C}-{#848484}?style={plastic}&logo={C}&logoColor={A8B9CC}"/>
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logocolor=white)
