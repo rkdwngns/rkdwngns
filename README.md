@@ -1,3 +1,6 @@
+
+![wodnd](https://user-images.githubusercontent.com/93520535/171643048-a8c0dbb1-d27d-47ba-a0bc-286a577bb39a.jpg)
+
 #### Hi there 👋, rkdwngns
 프로그래밍을 공부하고 있습니다. java,C를 주로 하고 있고 보안쪽에 관심이 있습니다.
 
