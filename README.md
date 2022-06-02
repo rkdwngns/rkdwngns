@@ -19,10 +19,8 @@
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logocolor=white)
-![Git](https://img.shields.io/badge/Git-FF7F00.svg?&style=for-the-badge&logo=Git&logocolor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008000.svg?&style=for-the-badge&logo=Android%20Studio&logocolor=white)
-![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logocolor=white)
 
 - 🌱 I’m currently learning C,CSS,Reversing
 - 🤔 I’m looking for help with 파이썬 
