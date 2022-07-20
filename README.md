@@ -1,5 +1,6 @@
 
-<img width="704" alt="image" src="https://user-images.githubusercontent.com/93520535/179910816-cae234b3-9f08-4410-beb0-7f41ef8eb5cb.png">
+
+![grid_id_1645507512329_4_05a4da](https://user-images.githubusercontent.com/93520535/179911875-27768d43-cf8d-47a8-a039-08def9fa4546.jpg)
 
 
 ![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&show_icons=true&theme=radical)
