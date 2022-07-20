@@ -2,9 +2,6 @@
 <img width="704" alt="image" src="https://user-images.githubusercontent.com/93520535/179910816-cae234b3-9f08-4410-beb0-7f41ef8eb5cb.png">
 
 
-#### Hi there 👋, rkdwngns
-프로그래밍을 공부하고 있습니다. java,C를 주로 하고 있고 보안쪽에 관심이 있습니다.
-
 ![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&show_icons=true&theme=radical)
 ![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwngns&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)]
 
@@ -22,9 +19,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logocolor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008000.svg?&style=for-the-badge&logo=Android%20Studio&logocolor=white)
-
-- 🌱 I’m currently learning C,CSS,Reversing
-- 🤔 I’m looking for help with 파이썬 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rkdwngns)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.naver.com/kgus7420)  
