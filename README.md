@@ -25,3 +25,6 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
  
+ 
+ |희망분야|보안 악성코드 분석가|
+ |지금은 리버싱을 공부하고 있고 앞으로는 웹해킹과 시스템 해킹 앱해킹을 배울 예정입니다.|
