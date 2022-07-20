@@ -25,7 +25,7 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-|왼쪽정렬|오른쪽 정렬|가운데 정렬|
+|희망분야|악성코드 분석가|
 |:---|---:|:---:|
 |셀1|셀2|셀3|
 |셀4|셀5|셀6|
