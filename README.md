@@ -4,23 +4,26 @@
 
 
 ![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&show_icons=true&theme=radical)
-![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwngns&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)]
-
-
-# 🛠 Skills
-### Platforms&Languages
-![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
-![HTML5](https://img.shields.io/badge/HTML5-007396.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
-![Android](https://img.shields.io/badge/Android-008000.svg?&style=for-the-badge&logo=Android&logocolor=white)
-<img src="https://img.shields.io/badge/C-{#848484}?style={plastic}&logo={C}&logoColor={A8B9CC}"/>
-<img src="https://img.shields.io/badge/Reversing-{#848484}?style={plastic}&logo={Reversing}&logoColor={A8B9CC}"/>
+![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwngns&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logocolor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008000.svg?&style=for-the-badge&logo=Android%20Studio&logocolor=white)
+<table class="tg">
 
-
+  
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
 <table class="tg">
 <thead>
   <tr>
@@ -71,6 +74,14 @@
   </tr>
   <tr>
     <td class="tg-0lax">HTML,JSP,SQL,CSS,Kotlin,Python,</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">사용하는 툴</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&amp;style=for-the-badge&amp;logo=IntelliJ%20IDEA&amp;logocolor=white)<br>![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&amp;style=for-the-badge&amp;logo=Eclipse&amp;logocolor=white)<br>![Android Studio](https://img.shields.io/badge/Android%20Studio-008000.svg?&amp;style=for-the-badge&amp;logo=Android%20Studio&amp;logocolor=white)</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
