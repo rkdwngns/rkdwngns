@@ -9,7 +9,7 @@
 ![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwngns&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&&show_icons=true&theme=codeSTACKr) <br>
- ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdwngns)](https://solved.ac/gaeduck0908) <br>
+ ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdwngns)](https://solved.ac/rkdwngns) <br>
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logocolor=white)
