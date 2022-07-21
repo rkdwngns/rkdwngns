@@ -10,20 +10,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logocolor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008000.svg?&style=for-the-badge&logo=Android%20Studio&logocolor=white)
-<table class="tg">
-
   
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -77,12 +64,6 @@
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">사용하는 툴</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&amp;style=for-the-badge&amp;logo=IntelliJ%20IDEA&amp;logocolor=white)<br>![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&amp;style=for-the-badge&amp;logo=Eclipse&amp;logocolor=white)<br>![Android Studio](https://img.shields.io/badge/Android%20Studio-008000.svg?&amp;style=for-the-badge&amp;logo=Android%20Studio&amp;logocolor=white)</td>
-    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
