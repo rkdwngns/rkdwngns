@@ -2,8 +2,6 @@
 
 ![grid_id_1645507512329_4_05a4da](https://user-images.githubusercontent.com/93520535/179911875-27768d43-cf8d-47a8-a039-08def9fa4546.jpg)
 
-
-![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&show_icons=true&theme=radical)
 ![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwngns&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 ### Tools
