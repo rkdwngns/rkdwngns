@@ -42,7 +42,7 @@
     <td class="tg-fymr" colspan="2">수상 및 대회 경력</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2">sk텔레콤 스마트앱 개발 챌린지 참가<br>WAcon 대회 참가<br>화이트 해커 경진대회 참가 및 수상<br>순천대학교 보안대회 참여</td>
+    <td class="tg-0pky" colspan="2">sk텔레콤 스마트앱 개발 챌린지 참가<br>WAcon 대회 참가<br>화이트 해커 경진대회 참가 및 수상</td>
   </tr>
   <tr>
     <td class="tg-fymr" colspan="2">보안 공부 하면서 정리한 블로그 사이트</td>
