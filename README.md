@@ -1,9 +1,7 @@
 
  <div align="center">
  
- 
- 
- 
+ ![image](https://user-images.githubusercontent.com/93520535/180645718-e17e6db1-d670-413f-bb6b-75ec2f81cf28.png)
 
 ![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwngns&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&&show_icons=true&theme=codeSTACKr)
