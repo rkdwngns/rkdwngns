@@ -2,7 +2,6 @@
  <div align="center">
  
  
-![grid_id_1645507512329_4_05a4da](https://user-images.githubusercontent.com/93520535/179911875-27768d43-cf8d-47a8-a039-08def9fa4546.jpg)
  
  
 
