@@ -39,7 +39,7 @@
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">-sk텔레콤 스마트앱 개발 챌린지 참가<br>-WAcon 대회 참가<br>-화이트 해커 경진대회 참가 및 수상</td>
+    <td class="tg-0pky">-sk텔레콤 스마트앱 개발 챌린지 참가<br>-WAcon 대회 참가<br>-화이트 해커 경진대회 참가 및 수상 예정</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">java중급 javaFx를 다룰줄 앎, C언어 초급 포인터 까지, 어셈블리어 초급 해석 및 간단한 코드 작성 가능</td>
+    <td class="tg-0lax">java중급 javaFx를 다룰줄 앎, C언어 초급 포인터 까지, 어셈블리어 조금 읽을 줄 앎</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
