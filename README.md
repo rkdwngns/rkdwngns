@@ -1,7 +1,6 @@
 
  <div align="center">
- 
- ![제목을 입력해주세요_-001](https://user-images.githubusercontent.com/93520535/191538023-5caa1da7-5175-4755-835f-9a77d0cd9878.jpg)
+
 
 
 ![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwngns&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
