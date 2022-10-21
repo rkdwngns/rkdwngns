@@ -47,7 +47,7 @@
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">java중급 javaFx를 다룰줄 앎, C언어 초급 포인터 까지, 어셈블리어 조금 읽을 줄 앎</td>
+    <td class="tg-0lax">javaFX 응용, C언어 학습, 어셈블리어를 읽을 수 있음</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
