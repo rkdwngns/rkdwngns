@@ -30,7 +30,7 @@
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">-sk텔레콤 스마트앱 개발 챌린지 참가<br>-WAcon 대회 참가<br></td>
+    <td class="tg-0pky">-sk텔레콤 스마트앱 개발 챌린지 참가<br>-WAcon 대회 참가<br>-사이버 가디언즈 본선 진출</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
