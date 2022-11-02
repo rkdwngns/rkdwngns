@@ -1,6 +1,6 @@
 
  <div align="center">
- <h1>응애 아기 주훈</h1>
+ <h1>정보보안전문가를 꿈꾸는 학생입니다.</h1>
  
 ![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwngns&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwngns&&show_icons=true&theme=codeSTACKr)
